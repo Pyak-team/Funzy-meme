@@ -1,3 +1,3 @@
 # First stage apps.
 
-Make auto delete vk apps on you phone
+Make auto delete vk and yandex apps on you phone
